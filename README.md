@@ -8,4 +8,3 @@ Para as instituições financeiras, a fraude de cartão de crédito pode levar a
 
 Felizmente, o Machine Learning pode ser uma ferramenta eficaz para detectar e prevenir a fraude de cartão de crédito. Utilizando técnicas como análise de padrões de comportamento e análise de redes neurais, é possível identificar transações fraudulentas em tempo real e bloquear as tentativas de fraude antes que elas ocorram.
 
-Em resumo, a fraude de cartão de crédito é uma ameaça significativa para as vítimas e as instituições financeiras que emitem os cartões de crédito. O Machine Learning pode ser uma ferramenta eficaz para prevenir e detectar a fraude de cartão de crédito, ajudando a proteger as informações pessoais e financeiras dos clientes e minimizando o impacto financeiro e reputacional para as instituições financeiras.
