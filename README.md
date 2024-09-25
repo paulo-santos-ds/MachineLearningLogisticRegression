@@ -6,5 +6,6 @@ Esse tipo de crime pode levar a um impacto financeiro significativo para as vít
 
 Para as instituições financeiras, a fraude de cartão de crédito pode levar a perdas financeiras significativas e a um dano reputacional para a empresa. Além disso, as instituições financeiras podem ser responsabilizadas por não tomar as medidas necessárias para proteger os dados dos clientes e prevenir a fraude de cartão de crédito.
 
+
 Felizmente, o Machine Learning pode ser uma ferramenta eficaz para detectar e prevenir a fraude de cartão de crédito. Utilizando técnicas como análise de padrões de comportamento e análise de redes neurais, é possível identificar transações fraudulentas em tempo real e bloquear as tentativas de fraude antes que elas ocorram.
 
