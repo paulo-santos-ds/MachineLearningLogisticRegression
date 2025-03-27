@@ -12,6 +12,7 @@ Felizmente, o Machine Learning pode ser uma ferramenta eficaz para detectar e pr
 
 ## 🛠️ Instalação
 
+
 1. Clone este repositório
 2. Instale as dependências listadas acima
 3. Execute o aplicativo:
